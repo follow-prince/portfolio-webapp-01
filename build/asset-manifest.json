@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58462fbc.css",
+    "main.js": "/static/js/main.2a17c8fc.js",
+    "static/media/profile-img.png": "/static/media/profile-img.8669dae47bf24f07a447.png",
+    "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.d4ad48a1a4ae58901999.mp3",
+    "static/media/Reminijpg": "/static/media/Remini20210530062302884.d576c457513612b111e1.jpg",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/IMG_20220215_151829.jpg": "/static/media/IMG_20220215_151829.6c3f94251593637d1036.jpg",
+    "static/media/Screenshot_2021-05-22-16-35-48-463_com.miui.gallery.jpg": "/static/media/Screenshot_2021-05-22-16-35-48-463_com.miui.gallery.eef0eafe2254a39a6df6.jpg",
+    "static/media/Screenshot_2022-01-04-19-05-22-920_com.google.android.apps.photos_2.jpg": "/static/media/Screenshot_2022-01-04-19-05-22-920_com.google.android.apps.photos_2.3b599bd3c2768d761972.jpg",
+    "static/media/spaceman.png": "/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "index.html": "/index.html",
+    "main.58462fbc.css.map": "/static/css/main.58462fbc.css.map",
+    "main.2a17c8fc.js.map": "/static/js/main.2a17c8fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.2a17c8fc.js"
+  ]
+}
